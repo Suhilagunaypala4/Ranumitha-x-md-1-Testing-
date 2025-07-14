@@ -122,9 +122,9 @@ const port = process.env.PORT || 9090;
 
 ╭──〔 🔗 *Quick Links* 〕  
 ├─ 📢 *Join Our Channel:*  
-│   (Click https://whatsapp.com/channel/0029Vb6aJYE4Y9lidzolSR2t) to join!  
+│   *(Click https://whatsapp.com/channel/0029Vb6aJYE4Y9lidzolSR2t to join!)*  
 ├─ ⭐ *Give Us a Star:*  
-│   Star Us *(https://github.com/Ranumithaofc/Ranumitha-x-md-1) !*  
+│   Star Us *(https://github.com/Ranumithaofc/Ranumitha-x-md-1 !)*  
 ╰─🛠️ *Prefix:* \`${prefix}\`
 
 > _© MADE BY 𝚁𝙰𝙽𝚄𝙼𝙸𝚃𝙷𝙰_`;

@@ -49,14 +49,14 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.ibb.co/nMT095YD/nexus-xmd.jpg` },
+                image: { url: `https://files.catbox.moe/ebcvj0.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363400240662312@newsletter',
+                        newsletterJid: '120363401868132010@newsletter',
                         newsletterName: "𝚁𝙰𝙽𝚄𝙼𝙸𝚃𝙷𝙰-𝚇-𝙼𝙳 𝐋𝐎𝐆𝐎 𝐌𝐄𝐍𝐔🧸₊",
                         serverMessageId: 143
                     }

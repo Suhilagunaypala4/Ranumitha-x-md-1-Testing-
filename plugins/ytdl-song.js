@@ -44,7 +44,7 @@ cmd({
             `🔽 *Reply with your choice:*\n` +
             `1 *Audio Type* 🎵\n` +
             `2 *Document Type* 📁\n\n` +
-            `${config.FOOTER || "𝚁𝙰𝙽𝚄𝙼𝙸𝚃𝙷𝙰-𝚇-𝙼𝙳"}`;
+            `${config.FOOTER || "> *© OWN BY 𝗥𝗔𝗡𝗨𝗠𝗜𝗧𝗛𝗔-𝗫-𝗠𝗗*"}`;
 
         const sentMsg = await conn.sendMessage(from, { image: { url: image }, caption: info }, { quoted: mek });
         const messageID = sentMsg.key.id;
